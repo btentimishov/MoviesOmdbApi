@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoviesOmdbApi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="actors_label">Actors</string>
+    <string name="director">Joss Whedon</string>
+    <string name="movie_title">The Avengers</string>
+    <string name="actors">Robert Downey Jr., Chris Evans, Scarlett Johansson</string>
+
+</resources>
